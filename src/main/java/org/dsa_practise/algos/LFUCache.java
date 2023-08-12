@@ -1,6 +1,6 @@
-package org.example.algos;
+package org.dsa_practise.algos;
 
-import org.example.dsa.linkedlist.DoublyLinkedList;
+import org.dsa_practise.dsa.linkedlist.DoublyLinkedList;
 
 import java.util.HashMap;
 import java.util.Map;

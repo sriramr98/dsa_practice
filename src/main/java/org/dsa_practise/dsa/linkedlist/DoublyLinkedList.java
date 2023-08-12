@@ -1,4 +1,4 @@
-package org.example.dsa.linkedlist;
+package org.dsa_practise.dsa.linkedlist;
 
 public class DoublyLinkedList<KEY, VALUE> {
 
